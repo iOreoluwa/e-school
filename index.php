@@ -1,4 +1,4 @@
-    <!doctype html>
+  <!doctype html>
 <html class="no-js" lang="zxx">
     
 <!-- Mirrored from html.vecuro.com/educare/multipage/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 24 Feb 2022 11:41:17 GMT -->
@@ -343,7 +343,7 @@
                     <div class="slider-progress"></div>
                     <div class="slider-content t-cn s-tb slider-1">
                         <div class="title-container s-tb-c title-compress">
-                            <h1>Academic Template 2017</h1>
+                            <h1>Academic Management System</h1>
                             <p>We look Forward To Getting to know you and to helipng you take your business to new heights!Intense is an International Financial Planning company with offices.</p>
                             <div class="slider-button">
                                 <ul>
@@ -373,7 +373,7 @@
                     <div class="slider-progress"></div>
                     <div class="slider-content t-lfr s-tb slider-3">
                         <div class="title-container s-tb-c">
-                            <h1>Undergraduate Degree Opeing</h1>
+                            <h1>School Management system</h1>
                             <p>We look Forward To Getting to know you and to helipng you take your business to new heights!Intense is an International Financial Planning company with offices.</p>
                             <div class="slider-button">
                                 <ul>
@@ -392,7 +392,7 @@
                 <div class="container">
                   <div class="reagestar-area">
                       <div class="row">
-                          <h3>Register Your Course</h3>
+                          <h3>Register</h3>
                           <div class="ragester-form">
                               <form action="#">
                                   <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
